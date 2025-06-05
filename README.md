@@ -13,6 +13,7 @@
 - 📈 Real-time resource monitoring (CPU, RAM, disk usage)  
 - ☁️ Compatible with most Linux-based servers (Nginx, Apache, etc.)  
 - 💳 Integrated billing & Stripe support *(coming soon)*  
+- 🧪 Free 7-day trial — then upgrade to continue using the panel  
 
 ---
 
@@ -34,7 +35,7 @@
 
 ## 📦 Installation
 
-SOON
+```bash soon```
 # Coming soon – automated installer
 
 ---
@@ -49,8 +50,8 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 For questions, support, or partnership inquiries:
 
-- 📧 Email: [quinten@ibq-services.com]
-- 🌐 Website: SOON
+- 📧 Email: [your@email.com]
+- 🌐 Website: [https://velopanel.com](https://velopanel.com)
 
 ---
 
