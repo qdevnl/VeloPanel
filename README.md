@@ -51,7 +51,7 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 For questions, support, or partnership inquiries:
 
 - 📧 Email: [your@email.com]
-- 🌐 Website: [https://velopanel.com](https://velopanel.com)
+- 🌐 Website: [https://velopanel.info](https://velopanel.info)
 
 ---
 
