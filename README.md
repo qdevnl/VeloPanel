@@ -34,9 +34,8 @@
 
 ## 📦 Installation
 
-\`\`\`bash
+SOON
 # Coming soon – automated installer
-\`\`\`
 
 ---
 
